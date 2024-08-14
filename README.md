@@ -84,6 +84,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions, suggestions, or feedback, please reach out to Shriram Kumbhar. You can contact me through GitHub or via email at `shriramkumbhar18@gmail.com`.
+For any questions, suggestions, or feedback, please reach out to Shriram Kumbhar.
+You can contact me through GitHub or via email at `shriramkumbhar18@gmail.com`.
 
 ---
